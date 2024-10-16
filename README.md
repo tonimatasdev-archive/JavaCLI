@@ -2,7 +2,7 @@
 It is a simple program to run specific java version.
 
 ## Installation
-1. [Download](https://github.com/TonimatasDEV/JavaCLI/releases/tag/1.0.0) or [compile](https://github.com/TonimatasDEV/JavaCLI/tree/master#How%20to%20compile) this repo.
+1. [Download](https://github.com/TonimatasDEV/JavaCLI/releases/tag/1.0.0) or [compile](https://github.com/TonimatasDEV/JavaCLI/tree/master?tab=readme-ov-file#how-to-compile) this repo.
 2. Put it anywhere and add it to `Environment Variables`.
 
 ## Commands
