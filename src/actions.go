@@ -21,7 +21,7 @@ func ExecuteJava(javaVersion string) {
 
 	args := os.Args[2:]
 
-	println("Java "+javaVersion+" with args: ", strings.Join(args, " "))
+	println("Java "+javaVersion+" with args:", strings.Join(args, " "))
 
 	cmd := exec.Command(javaPath, args...)
 
